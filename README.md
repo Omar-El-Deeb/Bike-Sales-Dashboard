@@ -1,1 +1,1 @@
-Hello and welcome. In This Repository you will find different projects that I have completed.
+This a bikes sales dashboard representing analysis done on bike sales according to different metrics.
